@@ -1,0 +1,18 @@
+{
+  "name": "sayserver",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependicies": {
+    "sayeasy": "~0.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomstring": "^1.1.5",
+    "express": "~3.21.2"
+  }
+}
