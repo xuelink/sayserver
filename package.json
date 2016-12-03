@@ -1,6 +1,6 @@
 {
   "name": "sayserver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "server.js",
   "scripts": {
