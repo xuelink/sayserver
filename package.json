@@ -1,12 +1,12 @@
 {
   "name": "sayserver",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "main": "server.js",
-  "repository" :
-    { "type" : "git"
-    , "url" : "https://github.com/behicsakar/sayserver.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/behicsakar/sayserver.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
