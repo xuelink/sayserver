@@ -29,7 +29,7 @@ sayserver.start();
 to make text to TTS *.aiff file.
 ```sh
 sh $ curl -dtext='Hello World' -dvoice=Alex http://localhost:4000/speak
-> localhost:4000/media/[randomstring].aiff
+> http://localhost:4000/media/[randomstring].aiff
 ```
 
 and you want to get *.aiff file
