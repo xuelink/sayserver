@@ -15,7 +15,7 @@ sayserver.start();
 
 ### `/speak`
 
-`/speak` is a endpoint that accepts an HTTP `POST` request with three parameters:
+`/speak` is an endpoint that accepts an HTTP `POST` request with two parameters:
 
 * voice - The Mac OS X voice to speak the text. (optional, default: 'Alex')
 * text - The text to speak. (required)
@@ -37,4 +37,4 @@ to get aiff file.
 ```sh
 sh $ curl http://localhost:4000/media/[randomstring].aiff
 ```
-or paste to browser.
+or paste to the browser.
