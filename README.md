@@ -3,6 +3,9 @@
 Turn your mac to TTS server with `say` command.
 Runs on Mac OS X.
 
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+
 ## Getting Started
 Install the module with: `npm install sayserver`
 
@@ -38,3 +41,8 @@ to get aiff file.
 sh $ curl http://localhost:4000/media/[randomstring].aiff
 ```
 or paste to the browser.
+
+[npm-image]: https://img.shields.io/npm/v/express.svg
+[npm-url]: https://npmjs.org/package/sayserver
+[downloads-image]: https://img.shields.io/npm/dm/sayserver.svg
+[downloads-url]: https://npmjs.org/package/sayserver
