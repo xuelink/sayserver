@@ -35,8 +35,8 @@ sh $ curl -dtext='Hello World' -dvoice=Alex http://localhost:4000/speak
 > http://localhost:4000/media/[randomstring].aiff
 ```
 
-and you want to get *.aiff file
-to get aiff file.
+and to get *.aiff file.
+
 ```sh
 sh $ curl http://localhost:4000/media/[randomstring].aiff
 ```
