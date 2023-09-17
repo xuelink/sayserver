@@ -1,7 +1,7 @@
 # sayserver
 
-Turn your mac to TTS server with `say` command.
-Runs on Mac OS X.
+Turn your MacOS to TTS server with `say` command.
+Runs on only with Mac OS X.
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
