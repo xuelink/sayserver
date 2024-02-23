@@ -18,7 +18,7 @@ sayserver.start();
 
 to make text to TTS *.aiff file.
 ``` bash
-curl -dtext='Hello World' -dvoice=Samantha http://localhost:4000/speak
+curl -dtext='Hello World!' -dvoice=Samantha http://localhost:4000/speak
 > http://localhost:4000/media/[randomstring].aiff
 ```
 
