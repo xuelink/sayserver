@@ -1,6 +1,6 @@
 {
   "name": "sayserver",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "",
   "main": "server.js",
   "repository": {
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "drinktea": "^1.1.0",
     "express": "^4.18.2",
     "randomstring": "^1.1.5"
   }
