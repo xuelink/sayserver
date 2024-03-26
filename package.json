@@ -1,6 +1,6 @@
 {
   "name": "sayserver",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "",
   "main": "server.js",
   "repository": {
@@ -18,6 +18,7 @@
     "express": "^4.18.2",
     "languagexchange": "^0.7.3",
     "lodash": "^4.17.21",
+    "moment": "^2.30.1",
     "nodemon": "^3.1.0",
     "randomstring": "^1.1.5"
   }
