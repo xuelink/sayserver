@@ -1,6 +1,6 @@
 {
   "name": "sayserver",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "",
   "main": "server.js",
   "repository": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "appwrite": "^14.0.0",
     "drinktea": "^1.1.0",
+    "eslint": "^8.57.0",
     "express": "^4.18.2",
     "languagexchange": "^0.7.3",
     "lodash": "^4.17.21",
