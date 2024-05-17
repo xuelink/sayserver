@@ -1,6 +1,6 @@
 {
   "name": "sayserver",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "",
   "main": "server.js",
   "repository": {
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langx/capacitor-voice-recorder": "^6.0.5",
     "appwrite": "^14.0.0",
     "drinktea": "^1.1.0",
     "eslint": "^8.57.0",
